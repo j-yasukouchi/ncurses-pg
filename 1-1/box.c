@@ -9,5 +9,6 @@ int main(void)
   getch();
 
   endwin();
+
   return 0;
 }
